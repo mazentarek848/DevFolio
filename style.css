@@ -109,7 +109,7 @@ h1{
 .title-services h2::after{
   position: absolute;
   content: '';
-  top: 60%;
+  top: 30%;
   left:50%;
   background-color: var(--color);
   width: 150px;
@@ -179,7 +179,7 @@ h1{
   content: '';
   width: 165px;
   height: 4px;
-  top: 60%;
+  top: 30%;
   left: 50%;
   transform: translateX(-50%);
   background-color: var(--color);
@@ -244,7 +244,7 @@ h1{
   width: 95px;
   height: 4px;
   background-color: var(--color);
-  top: 60%;
+  top: 30%;
   left: 50%;
   transform: translateX(-50%);
 }
@@ -260,7 +260,7 @@ h1{
   position: absolute;
   top: 50%;
   left: 50%;
-  transform: translate(-50%,-50%);
+  transform: translateX(-50%);
 }
 .blog .blog-caption h3 , p {
   padding-top: 10px;
