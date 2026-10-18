@@ -109,7 +109,7 @@ h1{
 .title-services h2::after{
   position: absolute;
   content: '';
-  top: 30%;
+  top: 40%;
   left:50%;
   background-color: var(--color);
   width: 150px;
@@ -179,7 +179,7 @@ h1{
   content: '';
   width: 165px;
   height: 4px;
-  top: 30%;
+  top: 40%;
   left: 50%;
   transform: translateX(-50%);
   background-color: var(--color);
@@ -244,7 +244,7 @@ h1{
   width: 95px;
   height: 4px;
   background-color: var(--color);
-  top: 30%;
+  top: 40%;
   left: 50%;
   transform: translateX(-50%);
 }
